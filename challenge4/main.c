@@ -13,10 +13,10 @@ int main()
    scanf("%d",&d);
 
    printf("entrer b :");
-   scanf("%d ",&b);
+   scanf("%d",&b);
 
    printf("entrer c :");
-   scanf("%d ",&c);
+   scanf("%d",&c);
 
    somme = (a+b+c+d);
    moyenne = somme/3;
